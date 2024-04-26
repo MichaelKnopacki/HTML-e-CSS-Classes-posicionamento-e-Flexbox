@@ -1,4 +1,6 @@
--> HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
+-> A partir do zero: HTML e CSS para projetos web
+
+----HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags----
 
 * Diferenciar a criação de um arquivo no Google Docs e no HTML;
 * Fazer download e instalar o Visual Studio Code;
@@ -39,9 +41,10 @@
 * Extrair a cor do Figma para utilizar no CSS;
 * Destacar o texto e alterar a cor do texto em destaque.
 
-----HTML e CSS: Classes, posicionamento e Flexbox---
+----HTML e CSS: Classes, posicionamento e Flexbox----
 
 -> Seletores e posicionamento
+
 * Utilizar classes no HTML e CSS;
 * Boas práticas na criação das classes;
 * Posicionamento de elementos com CSS;
@@ -51,6 +54,7 @@
 * Diferentes seletores CSS.
 
 -> Posicionando mais elementos
+
 * Padrões de projetos CSS com height e box-sizing;
 * Unidade Viewport;
 * Hierarquia entre elementos pai e filho;
@@ -58,6 +62,7 @@
 * Flexbox.
 
 -> Estilos de textos e fontes
+
 * Criar seções (sections) no HTML;
 * Posicionar elementos com Flexbox utilizando o justify-content;
 * Indentar o código;
@@ -67,6 +72,7 @@
 * Importar fontes com Google Fonts.
 
 -> Manipulando os botões
+
 * Posicionar e estilizar botões;
 * Criar e utilizar divisões (divs) no projeto;
 * Identificar o espaçamento no Figma;
@@ -74,6 +80,30 @@
 * Arredondar bordas com border-radius.
 
 -> Ajustando o espaçamento
+
 * Definir espaçamento vertical e horizontal;
 * Posicionar os elementos em coluna com Flexbox;
 * Utilizar o recurso Gap para espaçar cada elemento filho.
+
+----HTML e CSS: cabeçalho, footer e variáveis CSS----
+
+-> Preparando o layout do projeto
+
+* Funciona a atualização do layout de um projeto no Figma;
+* Posicionar os botões conforme o novo layout através do display: flex;
+* Fazer a estilização dos botões conforme o novo layout.
+
+-> Criando ícones clicáveis
+
+* Adicionar ícones aos links clicáveis;
+* Alinhar elementos com justify-content;
+* Estilizar elementos ao passar o mouse sobre eles com o seletor hover.
+
+-> Criando um header e um footer
+
+* Criar e fazer a estilização do footer da página;
+* Criar o header da página;
+* Aplicar os links de navegação através da tag <nav>.
+
+-> Navegando entre páginas
+* 
