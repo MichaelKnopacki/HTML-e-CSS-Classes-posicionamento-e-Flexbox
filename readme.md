@@ -123,4 +123,9 @@ Idéias de projeto: https://www.youtube.com/watch?v=y4ltLH9iK8E
 
 --HTML e CSS: trabalhando com responsividade e publicação de projetos--
 
+-> Unidades de Medidas
 
+* Sobre medidas relativas e absolutas;
+* Utilizar a documentação sobre unidade de medidas;
+* Utilizar a unidade de medida REM;
+* Alterar a aparência do navegador em configurações.

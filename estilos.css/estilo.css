@@ -27,13 +27,13 @@ body{
 h1 {
     color: var(--cor-secundaria);
     font-family:  var(--fonte-principal);
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 
 p{
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     margin-top: 10px;
 }
 
@@ -57,7 +57,7 @@ p{
 
 .cabecalho__menu__link{
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -94,7 +94,7 @@ p{
     font-family: var(--fonte-principal);
     color: var(--cor-secundaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .apresentao__links{
@@ -106,7 +106,7 @@ p{
     gap: 16px;
     border: 2px solid var(--cor-secundaria);
     border-radius: 10px;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
     font-weight: 600;
     text-decoration: none;
@@ -124,6 +124,6 @@ p{
     padding: 24px;
     text-align: center;   
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
