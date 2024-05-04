@@ -120,3 +120,7 @@ Idéias de projeto: https://www.youtube.com/watch?v=y4ltLH9iK8E
 * Adicionar conteúdo a uma nova página;
 * O que são variáveis CSS;
 * Como customizar o projeto aplicando variáveis CSS.
+
+--HTML e CSS: trabalhando com responsividade e publicação de projetos--
+
+
