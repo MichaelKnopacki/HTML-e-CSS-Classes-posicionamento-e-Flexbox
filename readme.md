@@ -1,6 +1,10 @@
 -> A partir do zero: HTML e CSS para projetos web
 
 ----HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags----
+Link Figma: https://www.figma.com/file/0KP9cHEkGwGEIoEN4e36HD/Portfolio---Curso-1-(Copy)?type=design&node-id=0-1&mode=design&t=aHYH5We2utfTqmTa-0
+Link Figma2: https://www.figma.com/file/rZ0ZDD9QYUwgXC8ZkJJpEX/Portfolio---Curso-3?type=design&node-id=0-1&mode=design&t=TOf9o76MiKVa6UpT-0 
+Paleta de cores: https://colorhunt.co 
+Idéias de projeto: https://www.youtube.com/watch?v=y4ltLH9iK8E 
 
 * Diferenciar a criação de um arquivo no Google Docs e no HTML;
 * Fazer download e instalar o Visual Studio Code;
@@ -106,4 +110,13 @@
 * Aplicar os links de navegação através da tag <nav>.
 
 -> Navegando entre páginas
-* 
+
+* Fazer a estilização do header do portfólio;
+* Criar a nova página HTML “Sobre mim”;
+* Desenvolver a navegação entre as páginas “Home” e “Sobre mim”.
+
+-> Variáveis em CSS
+
+* Adicionar conteúdo a uma nova página;
+* O que são variáveis CSS;
+* Como customizar o projeto aplicando variáveis CSS.
