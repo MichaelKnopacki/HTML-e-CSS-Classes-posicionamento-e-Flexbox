@@ -129,3 +129,31 @@ Idéias de projeto: https://www.youtube.com/watch?v=y4ltLH9iK8E
 * Utilizar a documentação sobre unidade de medidas;
 * Utilizar a unidade de medida REM;
 * Alterar a aparência do navegador em configurações.
+
+-> Adaptando Elementos
+
+* Adaptar elementos;
+* Utilizar a ferramenta do DevTools;
+* Visualizar nosso projeto na versão responsiva;
+* Alterar o tamanho da visualização na tela;
+* Adaptar elementos utilizando as unidades de medidas relativas.
+
+-> Responsividade
+
+* O que é a media query;
+* O que é a responsividade;
+* Como adaptar nosso site para diferentes tamanhos de tela;
+* Que a unidade de medida porcentagem é amiga da responsividade.
+
+-> Responsividade e GitHub
+
+* Mais um pouco sobre responsividade;
+* O que é Git e GitHub;
+* Como criar uma nova conta no GitHub.
+
+-> Repositório do GitHub
+
+* Criar o primeiro repositório no GitHub;
+* Subir o projeto para o repositório;
+* Criar uma conta na Vercel;
+* Colocar o projeto no ar e compartilhar com o mundo.
